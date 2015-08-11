@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "request": "^2.60.0",
+    "tough-cookie": "^2.0.0"
+  }
+}

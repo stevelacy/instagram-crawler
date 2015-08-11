@@ -1,0 +1,7 @@
+module.exports = [
+  'csrftoken=<csrf token>'
+  'ds_user=<instagram username>'
+  'ds_user_id=<instagram user id>'
+  'mid=<mid cookie>'
+  'sessionid=<sessionid cookie>'
+]
